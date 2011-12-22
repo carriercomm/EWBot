@@ -2,7 +2,7 @@ var irc = require('irc')
   , say = require ('say');
 
 var IRCSERVER = 'irc.freenode.net';
-var BOTNAME = 'ElliotTheRobot';
+var BOTNAME = 'EWBot';
 var CHANNELNAME = '#EWBot';
 
 var client = new irc.Client(IRCSERVER, BOTNAME, {
