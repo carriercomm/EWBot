@@ -18,7 +18,8 @@ var actions = {
   help: {
     help: 'display general help',
     action: function ( ) {
-      isay('TODO:help');
+      isay('I will say things aloud on an OS-X computer!');
+      isay('$ EWBot say Hello, World!');
     }
   },
   
