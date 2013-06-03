@@ -8,6 +8,9 @@
   "engines": {
     "node": "~0.4.11"
   },
-  "dependencies": {},
+  "dependencies": {
+      "irc":"0.3.x",
+      "say":"0.5.x"
+  },
   "devDependencies": {}
 }
